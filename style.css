@@ -26,7 +26,7 @@ ul {
 
 .nav-container {
     left: 2em;
-    bottom: 9em;
+    top: 24%;
     position: fixed;
     width: 200px;
     height: 270px;
@@ -102,24 +102,25 @@ nav ul li ul li {
 }
 
 .container {
-    left: 15%;
+    left: 12%;
     bottom: 6%;
     right: 4%;
     top: 18%;
     position: fixed;
-    z-index: 0;
     
 }
 
 img {
-    height: 100%;
-    object-fit: cover;
-    z-index: -2;
+    max-width: 100%;
 }
 
 
 .bottom-right {
-    position: absolute;
+    position: fixed;
+    width: 277px;
+    height: 50px;
+    background: rgba(0, 0, 0, 0.25);
+    padding: 1em;
     bottom: 10%;
     right: 5%;
 }
