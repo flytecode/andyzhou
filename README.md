@@ -5,4 +5,5 @@ Mockup was designed after an older version of Zara's website. Large graphics, mi
 to make text visible on any landing image, unlike Zara's.
 
 Figma: https://bit.ly/2XbVSBA
+
 Live site: https://flytecode.github.io/andyzhou/
